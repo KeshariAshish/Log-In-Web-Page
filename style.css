@@ -185,3 +185,10 @@ h1{
         flex: 6;
     }
 }
+
+
+@media(max-width:768px){
+    #right-show{
+        display: none;
+    }
+}
